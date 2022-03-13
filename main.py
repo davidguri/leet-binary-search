@@ -20,4 +20,4 @@ result = binary_search(sample_array, target_integer)
 if result != -1:
     print("Element index: " + str(result))
 else:
-    print("404 not found.")
+    print("not found.")
